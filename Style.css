@@ -1,0 +1,23 @@
+:root {
+    --brand-color: #6265F2;
+    --dark-color: #2C3441;
+    --mid-color: #485C6F;
+    --light-color: #ffffff;
+      }
+body{
+    background-color: var(--brand-color);
+    color: var(--light-color)
+}
+.main-wrapper{
+    margin-top: 1rem;
+    text-align: center;
+}
+.churn-form .col-xl-10 .tr-input-wrapper{
+    margin: 1rem;
+}
+.tr-input-item{
+    font-size: 2rem;
+}
+.error-button{
+    margin: 1rem;
+}
